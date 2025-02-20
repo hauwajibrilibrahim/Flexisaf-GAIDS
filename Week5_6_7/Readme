@@ -1,0 +1,39 @@
+# Data Visualization with Matplotlib & Seaborn
+
+## Overview
+This project demonstrates basic data visualization using Matplotlib and Seaborn. It includes:
+- Line Plot 📈
+- Scatter Plot 📉
+- Histogram 📊
+- Box Plot 📦
+
+The dataset is randomly generated using NumPy and Pandas.
+
+## Technologies Used
+- Python 🐍
+- Matplotlib 🎨
+- Seaborn 📊
+- Pandas 🏗️
+- NumPy 🔢
+
+## Installation
+To run this project, ensure you have Python installed, then install dependencies:
+```bash
+pip install numpy pandas seaborn matplotlib
+```
+
+## Running the Code
+Save the script as `visualization.py` and run:
+```bash
+python visualization.py
+```
+Each visualization will be displayed one by one.
+
+## Example Output
+Each plot will display when executed:
+- 📈 Line Plot: Shows trends in `y` over `x`.
+- 📊 Scatter Plot: Displays individual data points.
+- 📉 Histogram: Analyzes frequency distribution.
+- 📦 Box Plot: Highlights outliers and distributions.
+
+
